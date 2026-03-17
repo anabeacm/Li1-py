@@ -5,7 +5,7 @@ Python questions - List 1
 
 2) Faça um programa em python que leia o tempo de duração de um evento em uma fábrica expressa em segundos e mostre-o expresso em horas, minutos e segundos.
 
-3) O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um programa em C++ que leia o custo de fábrica de um carro e escreva o custo ao consumidor.
+3) O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um programa em python que leia o custo de fábrica de um carro e escreva o custo ao consumidor.
 
 4) Escreva um programa que recebe o valor de três ângulos A, B, C e determine se os mesmos correspondem aos três ângulos internos de um triângulo. Sabe-se que a soma dos ângulos internos de um triângulo é 180 graus. Caso os três ângulos correspondam aos ângulos internos de um triângulo, imprima uma mensagem adequada e em seguida determine o tipo de triângulo de acordo com as regras a seguir:
 
